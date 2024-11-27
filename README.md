@@ -7,6 +7,14 @@ The Minimax algorithm is an adverserial search algorithm which enables agents to
 
 ## Results
 
+#### MiniMax w/ depth=4 (easy)
+
+![Game Run](https://github.com/aanish94/connect-k-minimax/blob/main/results/depth4.gif)
+
+#### MiniMax w/ depth=5 (medium)
+
+![Game Run 2](https://github.com/aanish94/connect-k-minimax/blob/main/results/depth5.gif)
+
 ## Instructions
 
 The following simulations all run the Connect-4 game with different player options.
