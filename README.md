@@ -11,8 +11,6 @@ The Minimax algorithm is an adverserial search algorithm which enables agents to
 
 <img src="/results/depth4.gif" width="50%" height="50%"/>
 
-![Game Run]()
-
 ## Instructions
 
 The following simulations all run the Connect-4 game with different player options.
